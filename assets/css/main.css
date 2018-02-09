@@ -601,6 +601,9 @@
 		border: 0;
 		display: inline-block;
 		position: relative;
+		right: -210px;
+		max-width: 25%;
+	    max-height: 25%;
 	}
 
 		.image:before {
@@ -625,9 +628,7 @@
 			border-radius: 4px;
 			display: block;
 			position: relative;
-		    right: -210px;
-		    max-width: 25%;
-		    max-height: 25%;
+		    
 		}
 
 		.image.left, .image.right {
