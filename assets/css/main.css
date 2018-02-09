@@ -624,6 +624,10 @@
 		.image img {
 			border-radius: 4px;
 			display: block;
+			position: relative;
+		    right: -210px;
+		    max-width: 25%;
+		    max-height: 25%;
 		}
 
 		.image.left, .image.right {
@@ -1091,7 +1095,7 @@
 			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-			background-image: url("../../images/bg.jpg");
+			background-image: url("../../images/bg.jpeg");
 			background-position: center;
 			background-size: cover;
 			background-repeat: no-repeat;
