@@ -1,0 +1,143 @@
+{
+  "main": {
+    "name": "Johnny",
+    "occupation": "Software Developer",
+    "description": "interested in system architecture design, web development, and all things tech.",
+    "image": "profilepic.png",
+    "bio": "I'm passionate about education and am constantly looking to learn new technologies. If you have any project ideas and need an extra pair of hands feel free to send me a message!",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "johnnyliao06@gmail.com",
+    "phone": "555-555-5555",
+    "address": {
+      "street": "",
+      "city": "Vancouver",
+      "state": "BC",
+      "zip": ""
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": ".././public/JOHNNY_LIAO_RESUME.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/johnny-liao/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Jawny",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "University of British Columbia",
+        "degree": "Bachelor of Science, Computer Science and Statistics Combined Major ",
+        "graduated": "Expected June 2023",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Excelar Technologies",
+        "title": "Software Developer",
+        "years": "August 2020 - April 2021",
+        "description": "Worked on Chatnels, an AI powered chat platform for workflow messaging built with Reactjs and Typescript. -Developed and maintained comprehensive end to end regression testing scripts with Jest and Selenium. Improved test coverage by 70% and cut down manual testing time by 60%. -Wrote end to end testing scripts for Chatnels mobile app which improved mobile test coverage by 40%. -Optimized legacy code following object-oriented design methods to improve reusability and readability. -Designed a filter algorithm to sort over 1000 meetings based on relevant time slots for a booking system. -Implemented organization system for automated bot messages with higher order components to improve user customizability."
+      }
+    ],
+    "projects": [
+      {
+        "name": "Pennyroyal",
+        "years": "November 2020",
+        "description": "Developed a SMS mobile banking system that allows clients to bank remotely without having to meet with an agent. Instead of meeting with an agent, clients can perform formal identification and begin banking using their phone. -Utilized Twilio Studio Flow to handle SMS messaging and conversation flows. -Accessed Ethereum blockchain with Infura API to ensure confidentiality with transactions. -Implemented facial analysis with VGG model Keras API."
+      },
+      {
+        "name": "Goodlife Fitness Auto-booking Tool",
+        "years": "October 2020 - November 2020",
+        "description": "Designed a booking system that automatically books gym slots for users, eliminating the need to use Goodlife Fitness’s system and streamlining the booking system for up to 1000 users at a time. -Developed a CRUD API that made calls to Goodlife Fitness’s system to automate bookings, 99% faster than manual booking. Capable of booking in less than a 1 minute. -Stored and encrypted user data on MongoDB database -Deployed a cron job script on Digital Ocean to automate bookings for all registered users."
+      },
+      {
+        "name": "Align",
+        "years": "May 2020",
+        "description": "Web app that allows grocery stores to better control the number of people within the store, theoretically reducing the number of people waiting in line by 60% with a virtual queuing system. -Developed a mapping tool that allows users to easily search up over 1000 grocery stores they want to virtually queue up to with Google maps API. -Stored user data on MongoDB and connected a cron script that would send out notifications via sms with Twilio."
+      },
+      {
+        "name": "Pokemon Pokedex",
+        "years": "May 2020",
+        "description": "Developed a pokemon encyclopedia using the PokeApi. -Organized and filtered over 800 different pokemon based on specific characteristics. -Utilized asynchronous functions to ensure efficient CPU usage on client side"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Illustrator",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "VueJs",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Pennyroyal",
+        "category": "",
+        "image": "pennyroyal.png",
+        "url": "https://devpost.com/software/pennyroyal"
+      },
+      {
+        "title": "Goodlife Auto-booking Tool",
+        "category": "",
+        "image": "goodlife.png",
+        "url": "https://jawny.github.io/goodlife-autobook-client/"
+      },
+      {
+        "title": "Align",
+        "category": "",
+        "image": "align.png",
+        "url": "https://devpost.com/software/align-sygh6c"
+      },
+      {
+        "title": "Pokemon Pokedex",
+        "category": "",
+        "image": "pokedex.png",
+        "url": "https://jawny.github.io/pokedex/#/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
