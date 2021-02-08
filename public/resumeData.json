@@ -2,7 +2,7 @@
   "main": {
     "name": "Johnny",
     "occupation": "Software Developer",
-    "description": "interested in system architecture design, web development, and all things tech.",
+    "description": "interested in system architecture design, web development, and all things tech",
     "image": "profilepic.png",
     "bio": "I'm passionate about education and am constantly looking to learn new technologies. If you have any project ideas and need an extra pair of hands feel free to send me a message!",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
@@ -35,7 +35,7 @@
       {
         "school": "University of British Columbia",
         "degree": "Bachelor of Science, Computer Science and Statistics Combined Major ",
-        "graduated": "Expected June 2023",
+        "graduated": "Expected May 2023",
         "description": ""
       }
     ],
