@@ -1,6 +1,7 @@
 {
   "main": {
-    "name": "Johnny",
+    "name": "Johnny Liao",
+    "headerName": "Johnny",
     "occupation": "Software Developer",
     "description": "interested in system architecture design, web development, and all things tech",
     "image": "profilepic.png",
@@ -44,7 +45,7 @@
         "company": "Excelar Technologies",
         "title": "Software Developer",
         "years": "August 2020 - April 2021",
-        "description": "Worked on Chatnels, an AI powered chat platform for workflow messaging built with Reactjs and Typescript. -Developed and maintained comprehensive end to end regression testing scripts with Jest and Selenium. Improved test coverage by 70% and cut down manual testing time by 60%. -Wrote end to end testing scripts for Chatnels mobile app which improved mobile test coverage by 40%. -Optimized legacy code following object-oriented design methods to improve reusability and readability. -Designed a filter algorithm to sort over 1000 meetings based on relevant time slots for a booking system. -Implemented organization system for automated bot messages with higher order components to improve user customizability."
+        "description": "Worked on Chatnels, an AI powered chat platform for workflow messaging built with Reactjs and Typescript. -Developed and maintained comprehensive end to end regression testing scripts with Jest and Selenium. Improved test coverage by 70% and cut down manual testing time by 60%. -Wrote end to end testing scripts for Chatnels mobile app which improved mobile test coverage by 40%. -Optimized legacy code following object oriented design methods to improve reusability and readability. -Designed a filter algorithm to sort over 1000 meetings based on relevant time slots for a booking system. -Implemented organization system for automated bot messages with higher order components to improve user customizability."
       }
     ],
     "projects": [
