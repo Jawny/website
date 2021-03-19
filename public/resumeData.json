@@ -55,9 +55,9 @@
         "description": "Developed a SMS mobile banking system that allows clients to bank remotely without having to meet with an agent. Instead of meeting with an agent, clients can perform formal identification and begin banking using their phone. -Utilized Twilio Studio Flow to handle SMS messaging and conversation flows. -Accessed Ethereum blockchain with Infura API to ensure confidentiality with transactions. -Implemented facial analysis with VGG model Keras API."
       },
       {
-        "name": "Goodlife Fitness Auto-booking Tool",
+        "name": "Workout Auto-booking Tool",
         "years": "October 2020 - November 2020",
-        "description": "Designed a booking system that automatically books gym slots for users, eliminating the need to use Goodlife Fitness’s system and streamlining the booking system for up to 1000 users at a time. -Developed a CRUD API that made calls to Goodlife Fitness’s system to automate bookings, 99% faster than Goodlife Fitness's manual booking. Capable of booking in less than a 1 minute. -Stored and encrypted user data on MongoDB database. -Deployed a cron job script on Digital Ocean to automate bookings for all registered users."
+        "description": "Designed a booking system that automatically books gym slots for users, eliminating the need to use their standard gym system and streamlining the booking system for up to 1000 users at a time. -Developed a CRUD API that made calls to gym's system to automate bookings, 99% faster than gym's manual booking. Capable of booking in less than a 1 minute. -Stored and encrypted user data on MongoDB database. -Deployed a cron job script on Digital Ocean to automate bookings for all registered users."
       },
       {
         "name": "Align",
@@ -110,10 +110,10 @@
         "url": "https://devpost.com/software/pennyroyal"
       },
       {
-        "title": "Goodlife Auto-booking Tool",
+        "title": "Workout Auto-booking Tool",
         "category": "",
-        "image": "goodlife.png",
-        "url": "https://jawny.github.io/goodlife-autobook-client/"
+        "image": "workoutauto.png",
+        "url": "https://workoutauto.vercel.app/"
       },
       {
         "title": "Align",
