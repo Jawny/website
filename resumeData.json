@@ -1,8 +1,9 @@
 {
   "main": {
-    "name": "Johnny",
+    "name": "Johnny Liao",
+    "headerName": "Johnny",
     "occupation": "Software Developer",
-    "description": "interested in system architecture design, web development, and all things tech.",
+    "description": "interested in system architecture design, web development, and all things tech",
     "image": "profilepic.png",
     "bio": "I'm passionate about education and am constantly looking to learn new technologies. If you have any project ideas and need an extra pair of hands feel free to send me a message!",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
@@ -35,7 +36,7 @@
       {
         "school": "University of British Columbia",
         "degree": "Bachelor of Science, Computer Science and Statistics Combined Major ",
-        "graduated": "Expected June 2023",
+        "graduated": "Expected May 2023",
         "description": ""
       }
     ],
@@ -44,7 +45,7 @@
         "company": "Excelar Technologies",
         "title": "Software Developer",
         "years": "August 2020 - April 2021",
-        "description": "Worked on Chatnels, an AI powered chat platform for workflow messaging built with Reactjs and Typescript. -Developed and maintained comprehensive end to end regression testing scripts with Jest and Selenium. Improved test coverage by 70% and cut down manual testing time by 60%. -Wrote end to end testing scripts for Chatnels mobile app which improved mobile test coverage by 40%. -Optimized legacy code following object-oriented design methods to improve reusability and readability. -Designed a filter algorithm to sort over 1000 meetings based on relevant time slots for a booking system. -Implemented organization system for automated bot messages with higher order components to improve user customizability."
+        "description": "Worked on Chatnels, an AI powered chat platform for workflow messaging built with Reactjs and Typescript. -Developed and maintained comprehensive end to end regression testing scripts with Jest and Selenium. Improved test coverage by 70% and cut down manual testing time by 60%. -Wrote end to end testing scripts for Chatnels mobile app which improved mobile test coverage by 40%. -Optimized legacy code following object oriented design methods to improve reusability and readability. -Designed a filter algorithm to sort over 1000 meetings based on relevant time slots for a booking system. -Implemented organization system for automated bot messages with higher order components to improve user customizability."
       }
     ],
     "projects": [
@@ -54,9 +55,9 @@
         "description": "Developed a SMS mobile banking system that allows clients to bank remotely without having to meet with an agent. Instead of meeting with an agent, clients can perform formal identification and begin banking using their phone. -Utilized Twilio Studio Flow to handle SMS messaging and conversation flows. -Accessed Ethereum blockchain with Infura API to ensure confidentiality with transactions. -Implemented facial analysis with VGG model Keras API."
       },
       {
-        "name": "Goodlife Fitness Auto-booking Tool",
+        "name": "Workout Auto-booking Tool",
         "years": "October 2020 - November 2020",
-        "description": "Designed a booking system that automatically books gym slots for users, eliminating the need to use Goodlife Fitness’s system and streamlining the booking system for up to 1000 users at a time. -Developed a CRUD API that made calls to Goodlife Fitness’s system to automate bookings, 99% faster than manual booking. Capable of booking in less than a 1 minute. -Stored and encrypted user data on MongoDB database -Deployed a cron job script on Digital Ocean to automate bookings for all registered users."
+        "description": "Designed a booking system that automatically books gym slots for users, eliminating the need to use their standard gym system and streamlining the booking system for up to 1000 users at a time. -Developed a CRUD API that made calls to gym's system to automate bookings, 99% faster than gym's manual booking. Capable of booking in less than a 1 minute. -Stored and encrypted user data on MongoDB database. -Deployed a cron job script on Digital Ocean to automate bookings for all registered users."
       },
       {
         "name": "Align",
@@ -66,7 +67,7 @@
       {
         "name": "Pokemon Pokedex",
         "years": "May 2020",
-        "description": "Developed a pokemon encyclopedia using the PokeApi. -Organized and filtered over 800 different pokemon based on specific characteristics. -Utilized asynchronous functions to ensure efficient CPU usage on client side"
+        "description": "Developed a pokemon encyclopedia using the PokeApi. -Organized and filtered over 800 different pokemon based on specific characteristics. -Utilized asynchronous functions to ensure efficient CPU usage on client side."
       }
     ],
     "skills": [
@@ -109,10 +110,10 @@
         "url": "https://devpost.com/software/pennyroyal"
       },
       {
-        "title": "Goodlife Auto-booking Tool",
+        "title": "Workout Auto-booking Tool",
         "category": "",
-        "image": "goodlife.png",
-        "url": "https://jawny.github.io/goodlife-autobook-client/"
+        "image": "workoutauto.png",
+        "url": "https://workoutauto.vercel.app/"
       },
       {
         "title": "Align",
